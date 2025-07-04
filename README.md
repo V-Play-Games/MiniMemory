@@ -12,9 +12,16 @@ This is a small memory game made with 4 LEDs and 4 switches
 
 See script.cpp for the code.
 
-## Schematic and PCB
-![Schematic](Schematic.png)
-![PCBBack](PCBBack.png)
-![PCBFront](PCBFront.png)
+## Schematic
+![Schematic](pictures/Schematic.png)
+
+## PCB
+![PCBFront](pictures/PCBFront.png)
+![PCBBack](pictures/PCBBack.png)
+
+## 3D View
+![3DFront](pictures/3DFront.png)
+![3DBack](pictures/3DBack.png)
+![3DSide](pictures/3DSide.png)
 
 _Made for [Pathfinder](https://pathfinder.hackclub.com)._
